@@ -4,7 +4,7 @@ Copyright 2022 The MathWorks&reg; Inc.
 
 ## Introduction
 
-This demo optimizes an aircraft with SAE Aero Design 2020 Regular Class problem statement as an example. A problem based approach is used to construct the design optimization problem. For SAE Aero Design 2020 Regular Class competition, each team's objective was to maximise their Final Flight Score ($`FFS`$) which was the sum of three highest Flight Scores ($`FS_i`$) and a Payload Prediction Bonus ($`PPB`$).
+This demo optimizes an aircraft with SAE Aero Design 2020 Regular Class problem statement as an example. A problem based approach is used to construct the design optimization problem. For SAE Aero Design 2020 Regular Class competition, each team's objective was to maximise their Final Flight Score ($`FFS`$) which was the sum of three highest Flight Scores ($FS_i$) and a Payload Prediction Bonus ($`PPB`$).
 
 $`FFS = FS_1 + FS_2 + FS_3 + PPB`$
 
