@@ -2,6 +2,8 @@
 
 Copyright 2022 The MathWorks&reg; Inc.
 
+[![View optimization-for-model-aircrafts on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116165-optimization-for-model-aircrafts)
+
 ## Introduction
 
 This demo optimizes an aircraft with SAE Aero Design 2020 Regular Class problem statement as an example. A problem based approach is used to construct the design optimization problem. For SAE Aero Design 2020 Regular Class competition, each team's objective was to maximise their Final Flight Score ($`FFS`$) which was the sum of three highest Flight Scores ($FS_i$) and a Payload Prediction Bonus ($`PPB`$).
