@@ -55,7 +55,7 @@ Following is the representation of optimization variables.
 </tr>
 <tr>
 <td> <img src="images/topView.png" alt="Drawing" style="width: 250px;"/> </td>
-<\tr>
+</tr>
 </table>
 
 
