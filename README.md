@@ -77,7 +77,7 @@ Requires MATLAB release R2022a or newer
 
 ## License
 
-The license for Model Aircraft Design Optimization is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
+The license for Model Aircraft Design Optimization is available in the LICENSE.TXT file in this GitHub repository.
 
 
 
